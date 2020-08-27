@@ -2,7 +2,7 @@
 
 ### Reverse Polish Notation Calculator:
 
-Supports `+ - * /`
+Supports `+ - * /` rpn expressions.
 
 # Installation
 
@@ -11,7 +11,7 @@ Supports `+ - * /`
 Then
 
 ```javascript
-import {rpn} from 'rpn-calculator';
+import {rpn} from 'simple-rpn-calc';
 
 console.log(rpn(2 1 +));
 
