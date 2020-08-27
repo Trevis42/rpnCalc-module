@@ -1,6 +1,6 @@
 {
 	"name": "simple-rpn-calc",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "reverse polish notation calculator",
 	"main": "index.js",
 	"scripts": {
@@ -15,5 +15,6 @@
 	"bugs": {
 		"url": "https://github.com/Trevis42/rpnCalc-module/issues"
 	},
-	"homepage": "https://github.com/Trevis42/rpnCalc-module#readme"
+	"homepage": "https://github.com/Trevis42/rpnCalc-module#readme",
+	"type": "module"
 }
