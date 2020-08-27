@@ -54,4 +54,4 @@ const rpn = (expression) => {
 	return result;
 };
 
-module.exports.rpn = rpn;
+export default rpn;
