@@ -1,19 +1,19 @@
 {
-  "name": "rpn-calculator",
-  "version": "1.0.0",
-  "description": "reverse polish notation calculator",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Trevis42/rpnCalc-module.git"
-  },
-  "author": "Trevor Taylor",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Trevis42/rpnCalc-module/issues"
-  },
-  "homepage": "https://github.com/Trevis42/rpnCalc-module#readme"
+	"name": "simple-rpn-calc",
+	"version": "1.0.0",
+	"description": "reverse polish notation calculator",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Trevis42/rpnCalc-module.git"
+	},
+	"author": "Trevor Taylor",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Trevis42/rpnCalc-module/issues"
+	},
+	"homepage": "https://github.com/Trevis42/rpnCalc-module#readme"
 }
