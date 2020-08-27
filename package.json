@@ -1,6 +1,6 @@
 {
 	"name": "simple-rpn-calc",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "reverse polish notation calculator",
 	"main": "index.js",
 	"scripts": {

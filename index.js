@@ -1,6 +1,6 @@
 // Reverse Polish Notation Calculator:
 // supports + _ * /
-const rpn = (expression) => {
+module.exports = (expression) => {
 	let result = 0;
 	let stack = [];
 	let expArr = [];
@@ -52,5 +52,3 @@ const rpn = (expression) => {
 	}
 	return result;
 };
-
-module.exports = rpn;
