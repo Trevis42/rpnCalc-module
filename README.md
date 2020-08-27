@@ -11,9 +11,9 @@ Supports `+ - * /` rpn expressions.
 Then
 
 ```javascript
-import {rpn} from 'simple-rpn-calc';
+import { rpn } from "simple-rpn-calc";
 
-console.log(rpn(2 1 +));
+console.log(rpn("2 1 +"));
 
 //output: 3
 ```
